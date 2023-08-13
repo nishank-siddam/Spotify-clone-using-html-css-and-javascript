@@ -1,1 +1,1 @@
-# Spotify-clone-using-html-css-and-javascript
+# Spotify-clone
